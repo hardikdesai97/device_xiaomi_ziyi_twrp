@@ -23,7 +23,7 @@ on:
         default: 'https://github.com/hardikdesai97/device_xiaomi_ziyi_twrp.git'
         type: choice
         options:
-        - 'https://github.com/unreal3579/device_xiaomi_ziyi'
+        - 'https://github.com/hardikdesai97/device_xiaomi_ziyi_twrp'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
