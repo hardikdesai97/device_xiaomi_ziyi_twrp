@@ -20,7 +20,7 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/unreal3579/device_xiaomi_ziyi_twrp'
+        default: 'https://github.com/hardikdesai97/device_xiaomi_ziyi_twrp.git'
         type: choice
         options:
         - 'https://github.com/unreal3579/device_xiaomi_ziyi'
